@@ -1,16 +1,16 @@
-### Hi there 👋
+### OMAR STEVEN ZELAYA HENRIQUEZ 
+********************
+## Educacion 
 
-<!--
-**77591500/77591500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudio en la univerdidad tecnologica 
+- Estudie English en Directenglish 
 
-Here are some ideas to get you started:
+## Contactos 
+correo 
+- omarstevenzh@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+numero de telefono 
+- 77591500
+
+Descripcion 
+Soy una persona que le gusta aprender sobre la tecnologia y obtener conocimiento en muchas areas 
